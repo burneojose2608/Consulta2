@@ -33,4 +33,16 @@ JDBC se basa en el uso de controladores específicos de cada base de datos que i
 | `Curva de aprendizaje`| Mayor, debido a la abstracción del ORM y el DSL propio. |Moderada, especialmente si ya se tiene experiencia en SQL. | 
 | `Soporte para SQL personalizado` | Limitado, ya que utiliza su propio lenguaje DSL, aunque permite consultas SQL sin procesar. | Completo, ya que las consultas se escriben en SQL puro. | 
 | `Gestión de conexiones` | Usa un motor interno para manejar conexiones automáticamente.          |  Permite un control explícito del manejo de conexiones.|  
-| `Interoperabilidad con JDBC`                | Abstrae completamente JDBC.        | Trabaja directamente sobre JDBC.        |                
+| `Interoperabilidad con JDBC`                | Abstrae completamente JDBC.        | Trabaja directamente sobre JDBC.        |      
+
+
+-**Genere una base de datos en mysql**
+-**Genere una tabla con datos de prueba**
+
+![Imagen de WhatsApp 2025-01-23 a las 11 16 36_09be0cac](https://github.com/user-attachments/assets/24b60397-4080-4c8a-ab50-b7fff95b9753)
+
+-**Desde Scala establezca la conexión a la base datos**
+
+![Imagen de WhatsApp 2025-01-23 a las 11 33 44_bd241fa4](https://github.com/user-attachments/assets/98caa93f-86f0-4f90-be66-f892610a22e5)
+
+
